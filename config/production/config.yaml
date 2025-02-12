@@ -2,6 +2,11 @@
 
 baseURL: https://test.inseamm.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 4fb9c93a-35e0-4df3-a33c-20cdd5da72c4
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
